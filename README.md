@@ -1,6 +1,6 @@
-"# spring-boot-jsp" 
+# spring-boot-jsp
 
-#maven依赖
+## maven依赖
 
 	<dependency>
 		<groupId>org.apache.tomcat.embed</groupId>
@@ -12,7 +12,7 @@
 		<artifactId>jstl</artifactId>
 	</dependency>
 		
-# application.properties
+## application.properties
 
 spring.mvc.view.suffix=.jsp
 
